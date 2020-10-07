@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Setup
 
-Clone o repositório em sua maquina:
+Clone o repositório em sua máquina:
 
 `git clone https://github.com/BrunoLagoa/appSocial`
 
